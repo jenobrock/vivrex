@@ -1,0 +1,156 @@
+[
+    {
+        "title": "Captaine Blanc",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Capitaine Noir",
+        "length": "5:15",
+        "path":"viande1",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Perche",
+        "length": "5:15",
+        "path":"pomme",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Sole",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Baraccuda",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Crevettes (Petite)",
+        "length": "5:15",
+        "path":"viande1",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Crevette (Moyenne)",
+        "length": "5:15",
+        "path":"pomme",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Crevette Royale",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Rouget (Dorade)",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Mopongo",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Mboto (carpe)",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Monganza",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Tilapia",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Mpoka",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Mbenga",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Ngolo",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    },{
+        "title": "Machoiron",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    }
+]

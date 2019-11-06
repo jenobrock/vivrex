@@ -1,0 +1,26 @@
+[
+    
+    
+    
+    {
+        "title": "Bloom",
+        "length": "5:15",
+        "path":"viande",
+        "detail":{
+            "details":"ce produit est une viande fraiche",
+            "prix":"8500",
+            "quantite":"855"
+        }
+    }, 
+    {
+        "title": "Morning Mr Magpie",
+        "length": "4:41",
+        "path":"viande1",
+        "detail":{
+            "details":"ce produit est une viande",
+            "prix":"3500",
+            "quantite":"55"
+        }
+    }
+]
+
